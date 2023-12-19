@@ -4,8 +4,8 @@ import time
 import csv
 
 # Spotify API kimlik bilgileri
-client_id = 'b5b1962b7e8a450d854a87687e2f5e9f'
-client_secret = 'b0718fca938949eb9245485e8abbf3dc'
+client_id = 'api key'
+client_secret = 'api key'
 
 # Playlist URL'lerini tanımlıyoruz.
 playlist_links = [

@@ -2,7 +2,7 @@ import requests
 import csv
 
 # Musixmatch API anahtarı
-api_key = "a8ff8b325ae61386fe443091b21ff478"
+api_key = "api key"
 
 # Musixmatch API kullanarak şarkı ID'sini alıyoruz.
 def get_track_id(api_key, track_name, artist_name):
